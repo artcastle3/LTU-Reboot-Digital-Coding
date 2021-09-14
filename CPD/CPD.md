@@ -20,7 +20,7 @@ I didn't quiet understand how the internet worked ....
 
 Setting up
 
-I learnt to fork a repositoryn github, then clone it to my computer as well as how to use Visual Studio Code. 
+I learnt to fork a repository in github, then clone it to my computer as well as how to use Visual Studio Code. 
 
 I followed along with the instructor in realtime.
 
